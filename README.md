@@ -1,5 +1,3 @@
-# ticket-lifecycle# osTicket - Ticket Lifecycle: Intake Through Resolution
-
 <p align="center">
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
