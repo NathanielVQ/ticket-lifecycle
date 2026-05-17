@@ -26,6 +26,7 @@ This tutorial walks through the complete lifecycle of a support ticket within os
 
 - Microsoft Azure (Virtual Machines)
 - Windows 10 (21H2)
+- Windows 11
 
 <h3>Technologies / Applications Used</h3>
 
@@ -51,7 +52,7 @@ This tutorial walks through the complete lifecycle of a support ticket within os
 <h3>Step 1: Ticket Intake</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Ticket Intake"/>
+  <img width="767" height="680" alt="image" src="https://github.com/user-attachments/assets/59003d6f-6950-442e-9522-6e1b9617cb02" />
 </p>
 
 <p>
@@ -63,7 +64,7 @@ The ticket lifecycle begins when a user submits a support request through the os
 <h3>Step 2: Ticket Assignment and Communication</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Ticket Assignment"/>
+  <img width="981" height="737" alt="image" src="https://github.com/user-attachments/assets/83ea0f30-f5ba-48c7-a59c-b86ae93bca8b" />
 </p>
 
 <p>
@@ -75,7 +76,7 @@ After submission, the ticket is assigned to the appropriate department or suppor
 <h3>Step 3: Working the Issue</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Troubleshooting Ticket"/>
+  <img width="1001" height="632" alt="image" src="https://github.com/user-attachments/assets/332f36b2-e76c-492b-ab90-864e90870466" />
 </p>
 
 <p>
@@ -87,7 +88,7 @@ The assigned support agent investigates and troubleshoots the issue using the in
 <h3>Step 4: Resolution and Ticket Closure</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Ticket Resolution"/>
+  <img width="922" height="560" alt="image" src="https://github.com/user-attachments/assets/0e7acf06-f579-46c3-ac99-eb8909b31d8a" />
 </p>
 
 <p>
